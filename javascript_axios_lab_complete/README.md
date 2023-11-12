@@ -49,12 +49,39 @@ Now that you know what you already have, here's what you need to do. These steps
 
 
 ### Screenshots
-The Cat Web Application
+#### The Cat Web Application
+#### Select Breed
+<img src="./scrnshts/cats_0.png" width="90%" alt="That Cat web App">
 
-<img src="./img/cat_0.png" width="90%" alt="That Cat web App">
+<img src="./scrnshts/cats_1.png" width="90%" alt="That Cat web App">
 
-<img src="./img/cat_1.png" width="90%" alt="That Cat web App">
-
+#### Select Favorites
+<img src="./scrnshts/fav.png" width="90%" alt="That Cat web App">
 
 ### Getting Started
-Clone the repository.
+#### Dependencies
+- popperjs/core
+- axios
+- bootstrap
+- jquery
+- parcel-bundler
+
+- Install dependencies:
+```
+npm i
+```
+or 
+
+```
+yarn install
+```
+
+- Run the local server
+```
+yarn start
+```
+or 
+
+````
+npm start
+``
